@@ -1,4 +1,4 @@
-![Website](./jammming.jpg)
+![Website](https://github.com/RoyHawa/Jammming/blob/main/jammming.png)
 
 #To run the app:
 
